@@ -1,9 +1,9 @@
-<h1 align="center">Bonjour 👋, je suis Teffahi Ryan</h1>
+<h1 align="center">Bonjour 👋, je suis Ryan Teffahi</h1>
 <h3 align="center">Développeur web junior</h3>
 
-- 👨‍💻 All of my projects are available at [https://ryan-teffahi.fr/](https://ryan-teffahi.fr/)
+- 👨‍💻 Tout mes projets sont disponible ici [https://ryan-teffahi.fr/](https://ryan-teffahi.fr/)
 
-- 📫 How to reach me **teffahi.ryan@gmail.com**
+- 📫 Comment me contacter **teffahi.ryan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
