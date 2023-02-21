@@ -5,6 +5,8 @@
 
 - 👨‍💻 Tout mes projets sont disponible ici [https://ryan-teffahi.fr/](https://ryan-teffahi.fr/)
 
+- 🌱 Je suis actuellement entrain d'apprendre **React**.
+
 - 📫 Comment me contacter **teffahi.ryan@gmail.com**
 
 <h3 align="left">Connectez vous avec moi :</h3>
