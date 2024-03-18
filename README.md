@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je suis Ryan Teffahi</h1>
-<h3 align="center"> Développeur web junior, j'apprécie particulièrement le framework Symfony et je suis actuellement en train de me former en React JS ! </h3>
+<h3 align="center"> Développeur web junior, j'apprécie particulièrement le framework Laravel et Vue.js, je suis actuellement en recherche d'une formation en alternance en React JS ! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teffahiryan&label=Profile%20views&color=0e75b6&style=flat" alt="teffahiryan" /> </p>
 
