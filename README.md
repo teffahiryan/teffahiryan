@@ -5,7 +5,7 @@
 
 - 👨‍💻 Tout mes projets sont disponible ici [https://ryan-teffahi.fr/](https://ryan-teffahi.fr/)
 
-- 🌱 Je suis actuellement en train d'apprendre de travailler sur des projets en Laravel et Vue.js.
+- 🌱 Je suis actuellement en train de travailler sur des projets en Laravel et Vue.js.
 
 - 📫 Comment me contacter **teffahi.ryan@gmail.com**
 
